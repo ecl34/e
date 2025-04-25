@@ -10,7 +10,7 @@ local whitelist = {
 		hwids = {
 			"F3BA7C06-CBE0-40EF-9222-1B0D731FE409",
 		},
-		expiration = 1747752830, -- 20 Mei 2025 19:53:50 WITA (UNIX time)
+		expiration = 1748180030,
 	},
 	["MNHs729dAsXjKaOq2"] = "ALL"
 }
