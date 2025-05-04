@@ -10,7 +10,7 @@ return {
         hwids = {
             "F3BA7C06-CBE0-40EF-9222-1B0D731FE409"
         },
-        expiration = 1746321657
+        expiration = 1747655916
     },
     ["MNHs729dAsXjKaOq2"] = "ALL"
 }
